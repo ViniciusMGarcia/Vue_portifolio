@@ -1,9 +1,7 @@
 <template>
-  <div id="app" class="flex flex-col min-h-screen">
-    <router-view class="flex-grow" />
 
     <footer class="bg-gray-800 text-white text-center py-6 mt-12">
       <p class="text-sm">&copy; 2025 Meu Portfólio. Todos os direitos reservados.</p>
     </footer>
-  </div>
+  
 </template>
